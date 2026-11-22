@@ -1,0 +1,16 @@
+hub,product,opening_stock,received,allocated,reorder_level
+North Hub,Chicken Breast,150,40,135,45
+North Hub,Fish Fillet,168,35,152,45
+North Hub,Paneer,186,40,169,45
+North Hub,Eggs (12-pack),204,45,186,45
+North Hub,Fresh Vegetables,222,50,203,45
+Central Hub,Chicken Breast,150,30,105,45
+Central Hub,Fish Fillet,168,35,122,45
+Central Hub,Paneer,186,40,139,45
+Central Hub,Eggs (12-pack),204,45,156,45
+Central Hub,Fresh Vegetables,222,50,173,45
+South Hub,Chicken Breast,150,30,105,45
+South Hub,Fish Fillet,168,35,122,45
+South Hub,Paneer,186,40,139,45
+South Hub,Eggs (12-pack),204,45,156,45
+South Hub,Fresh Vegetables,222,50,173,45
